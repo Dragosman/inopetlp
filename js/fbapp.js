@@ -40,9 +40,9 @@ var submitAccount=function(){
     "email": Email,
     "dogName": DogName,
     "type": DogType
-
-  windows.alert("Multumim pentru interesul in Inopet. Te vom anunta in curand, la adresa de email "+Email+" despre lansarea Inopet.")
   });
+
+  window.alert("Multumim pentru interesul in Inopet. Te vom anunta in curand, la adresa de email "+Email+" despre lansarea Inopet.");
 
 };
 
