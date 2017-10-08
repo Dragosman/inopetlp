@@ -1,0 +1,24 @@
+{
+	"accounts":
+			[
+				{
+					"email":"dragos.v.manescu@gmail.com",
+					"dogName":"Ino",
+					"type":"ciobanesc german",
+					"age":"3.5"
+
+				},
+				{
+					"email":"dragos.v.manescu@gmail.com",
+					"dogName":"Isi",
+					"type":"metis",
+					"age":"32.7"
+
+				}
+
+
+
+			]
+
+
+}
